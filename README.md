@@ -1,0 +1,2 @@
+# Free-StakeMachine
+Easy Installation
